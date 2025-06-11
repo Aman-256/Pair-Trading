@@ -26,6 +26,7 @@ The project uses S&P 500 historical price data from 2015 to 2024. Data is automa
 - numpy
 - yfinance
 - matplotlib
+- scikit-learn
 - scipy
 - statsmodels
 - jupyter
