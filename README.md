@@ -12,29 +12,8 @@ This repository contains a comprehensive pair trading strategy implementation us
 - `backtesting.ipynb`: Strategy backtesting and performance analysis
 - `Pnl.ipynb`: Profit and loss analysis
 
-## Setup Instructions
 
-1. Clone the repository:
-```bash
-git clone [your-repository-url]
-cd pair-trading
-```
 
-2. Create and activate virtual environment:
-```bash
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-4. Run Jupyter notebooks:
-```bash
-jupyter notebook
-```
 
 ## Data
 
@@ -50,7 +29,3 @@ The project uses S&P 500 historical price data from 2015 to 2024. Data is automa
 - scipy
 - statsmodels
 - jupyter
-
-## License
-
-MIT License 
